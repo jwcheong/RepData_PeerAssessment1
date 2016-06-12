@@ -1,10 +1,9 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
-output: 
-html_document:
+author: "Jiawen Cheong"
+output: html_document
 keep_md: true
 ---
-By: Jiawen Cheong
 
 
 
